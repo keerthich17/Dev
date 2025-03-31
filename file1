@@ -8,3 +8,8 @@ git config --list  - it will display content
 git config --global --unset user.name " "  - this command is used to delete the user name
 git config --global --unset uiser.email " "- this command is used to delete the user email
 touch filename  - this command is used to create new file 
+git add filename  - this command is used to move the files from workspace to staging or index area.
+git commit -m "sample message"  - this command is used to move the files from staging area to local Repo area that means the data which we need to move to github rep.
+git log   - this command is used to check whether the files present in local repo or not.
+git show  - this shows the clear information about files present in that local repo stage.
+git show cid   - this command show infromation about pratcular commit id.
