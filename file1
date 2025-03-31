@@ -1,0 +1,10 @@
+Git basic commands :
+
+git status  - It shows status file etc...
+git init    - it will initialized respository
+git config --global user.name " "  - this command is used it will configure name
+git config --global user.email " " - this command is used it will configure email.id
+git config --list  - it will display content 
+git config --global --unset user.name " "  - this command is used to delete the user name
+git config --global --unset uiser.email " "- this command is used to delete the user email
+touch filename  - this command is used to create new file 
