@@ -1,0 +1,6 @@
+Cherry-pick  This is used for copying the particular data, not entire data.
+============
+git cherry-pick cid 
+git cherry-pick --abort  - this command used to come out from cherry pick operation
+git cherry-pick --skip
+git cherry-pick --continue
