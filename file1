@@ -13,3 +13,9 @@ git commit -m "sample message"  - this command is used to move the files from st
 git log   - this command is used to check whether the files present in local repo or not.
 git show  - this shows the clear information about files present in that local repo stage.
 git show cid   - this command show infromation about pratcular commit id.
+Amend:
+used in 2 ways (only for latest ones)
+1.For changing the label message
+2.If we missed any file to local repo, but need to sent that file in same commit then we can use
+git commit --amend -m "label"
+==============================
